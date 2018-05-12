@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34600'
     url: http://www.gutenberg.org/2009/agents/34600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21566#The-Good-Old-Songs-We-Used-to-Sing-61-to-65
 gutenberg_bookshelf: Music
 gutenberg_issued: '2007-05-22'
 gutenberg_type: Text
